@@ -1,4 +1,4 @@
-# 🎫 HyperProgram
+# 🎫 HyperStudio
 Hello everyone, I am one of students on Java Developer.
 I start up many projects, so If you wanna my project, you can do everything.
 Thanks it's hyper.
@@ -6,21 +6,21 @@ Thanks it's hyper.
 I using most language is "JAVA"
 
 ## Description list:
-* [HyperProgram](https://github.com/HyperProgram/HyperProgram#-hyperprogram)
-  * [Data](https://github.com/HyperProgram/HyperProgram#-data)
-  * [Working Tasks](https://github.com/HyperProgram/HyperProgram#-working-tasks)
-  * [Visitors](https://github.com/HyperProgram/HyperProgram#visitors)
-  * [Knowledge](https://github.com/HyperProgram/HyperProgram#knowledge)
-    * [Language](https://github.com/HyperProgram/HyperProgram#language)
-    * [Web](https://github.com/HyperProgram/HyperProgram#web)
-    * [Software](https://github.com/HyperProgram/HyperProgram#software)
-    * [Database](https://github.com/HyperProgram/HyperProgram#database)
-    * [Social Media](https://github.com/HyperProgram/HyperProgram#social-media)
-  * [My Resposity](https://github.com/HyperProgram/HyperProgram#-my-repository)
-    * [Gradle](https://github.com/HyperProgram/HyperProgram#gradle-)
-      * [Normal](https://github.com/HyperProgram/HyperProgram#normal)
-      * [Multi](https://github.com/HyperProgram/HyperProgram#multi)
-    * [Maven](https://github.com/HyperProgram/HyperProgram#maven-)
+* [HyperStudio](https://github.com/HyperStudio123/HyperStudio123#-hyperstudio)
+  * [Data](https://github.com/HyperStudio123/HyperStudio123#-data)
+  * [Working Tasks](https://github.com/HyperStudio123/HyperStudio123#-working-tasks)
+  * [Visitors](https://github.com/HyperStudio123/HyperStudio123#visitors)
+  * [Knowledge](https://github.com/HyperStudio123/HyperStudio123#knowledge)
+    * [Language](https://github.com/HyperStudio123/HyperStudio123#language)
+    * [Web](https://github.com/HyperStudio123/HyperStudio123#web)
+    * [Software](https://github.com/HyperStudio123/HyperStudio123#software)
+    * [Database](https://github.com/HyperStudio123/HyperStudio123#database)
+    * [Social Media](https://github.com/HyperStudio123/HyperStudio123#social-media)
+  * [My Resposity](https://github.com/HyperStudio123/HyperStudio123#-my-repository)
+    * [Gradle](https://github.com/HyperStudio123/HyperStudio123#gradle-)
+      * [Normal](https://github.com/HyperStudio123/HyperStudio123#normal)
+      * [Multi](https://github.com/HyperStudio123/HyperStudio123#multi)
+    * [Maven](https://github.com/HyperStudio123/HyperStudio123#maven-)
 
 
 ## 💾 Data
@@ -28,7 +28,7 @@ I using most language is "JAVA"
 - ![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | [Discord](https://discord.gg/7EBK9PRnXr)
 
 ## 🔭 Working Tasks:
- - [NULL](https://github.com/HyperProgram)
+ - [NULL](https://github.com/HyperStudio123)
 
 ## Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/HyperProgram/count.svg)
