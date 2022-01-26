@@ -24,8 +24,8 @@ I using most language is "JAVA"
 
 
 ## 💾 Data
-- [Github](https://github.com/HyperProgram)
-- 📫 Discord: **Ratsiel#8923**
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | [Github](https://github.com/HyperProgram) 
+- ![Discord](https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | [Discord](https://discord.gg/7EBK9PRnXr)
 
 ## 🔭 Working Tasks:
  - [NULL](https://github.com/HyperProgram)
