@@ -1,29 +1,28 @@
 # 🎫 HyperProgram
 
 Description list:
-* HyperProgram
-  * Data
-  * Working tasks
-  * Visitors
-  * Knowledge
-    * Languages
-    * Web
-    * Software
-    * Database
-    * Social Media
-  * My Repository
-    * Gradle
-      * Normal
-      * Multi
-    * Maven
-    * [maven](https://github.com/HyperProgram/HyperProgram/README.md/#🎫HyperProgram)
+* [HyperProgram](https://github.com/HyperProgram/HyperProgram#-hyperprogram)
+  * [Data](https://github.com/HyperProgram/HyperProgram#-data)
+  * [Working Tasks](https://github.com/HyperProgram/HyperProgram#-working-tasks)
+  * [Visitors](https://github.com/HyperProgram/HyperProgram#visitors)
+  * [Knowledge](https://github.com/HyperProgram/HyperProgram#knowledge)
+    * [Language](https://github.com/HyperProgram/HyperProgram#language)
+    * [Web](https://github.com/HyperProgram/HyperProgram#web)
+    * [Software](https://github.com/HyperProgram/HyperProgram#software)
+    * [Database](https://github.com/HyperProgram/HyperProgram#database)
+    * [Social Media](https://github.com/HyperProgram/HyperProgram#social-media)
+  * [My Resposity](https://github.com/HyperProgram/HyperProgram#-my-repository)
+    * [Gradle](https://github.com/HyperProgram/HyperProgram#gradle-)
+      * [Normal](https://github.com/HyperProgram/HyperProgram#normal)
+      * [Multi](https://github.com/HyperProgram/HyperProgram#multi)
+    * [Maven](https://github.com/HyperProgram/HyperProgram#maven-)
 
 
 ## 💾 Data
 - [Github](https://github.com/Ratsiiel)
 - 📫 Discord: **Ratsiel#8923**
 
-## 🔭 Working tasks:
+## 🔭 Working Tasks:
  - [nbt-library](https://github.com/Ratsiiel/nbt-library)
  - [region-library](https://github.com/Ratsiiel/region-library)
  - [json-library](https://github.com/Ratsiiel/json-library)
