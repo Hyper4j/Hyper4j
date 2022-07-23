@@ -31,6 +31,7 @@ I using most language is "JAVA"
  - [TwipToonation-Plugin](https://github.com/HyperStudio123/TwipToonation-Plugin) : 트위치 후원( 트윕 ) 과 투네이션의 도네이션 알림을 마인크래프트 Bukkit API Plugin 화 하여 지원되는 오픈소스 무료 트윕후원 플러그인
  - [KaraokeAPI](https://github.com/Hyper4j/KaraokeAPI) : Tj 노래방의 정보를 가져와, 노래검색 기능을 도와준다. ( 노래의 정보 -> 제목, 가수, 작곡가, 작사가, 가사, 엘범사진 등등 )
  - [CommandAPI](https://github.com/Hyper4j/CommandAPI) : 마인크래프트 플러그인 API, 명령어를 쉽게 추가할 수 있는 기능이다.
+ - [InventoryAPI](https://github.com/Hyper4j/InventoryAPI) : 마인크래프트 플러그인 API, 영구 인벤토리를, 명령어로 또는 Java 코드를 이용하여 개발할 수 있는 기능이다.
 
 ## Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/HyperProgram/count.svg)
